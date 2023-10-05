@@ -1,0 +1,16 @@
+
+{
+    "desc": "此处存放策略集",
+    "series": [
+        {
+            "name": "regex",
+            "desc": "正则表达式",
+            "items": []
+        },
+        {
+            "name": "filter",
+            "desc": "过滤器",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "front": {
+        "base": "/",
+        "series": [
+            {
+                "title": "home",
+                "icon": "",
+                "url": ""
+            },
+            {
+                "title": "blogs",
+                "icon": "",
+                "url": "blogs"
+            },
+            {
+                "title": "contact",
+                "icon": "",
+                "url": "contact_me"
+            }
+        ]
+    },
+    "backstage": {
+        "base": "/backstage/",
+        "series": [
+            {
+                "title": "index",
+                "icon": "",
+                "url": ""
+            },
+            {
+                "title": "my blogs",
+                "icon": "",
+                "url": "blogs"
+            },
+            {
+                "title": "info",
+                "icon": "",
+                "url": "info"
+            }
+        ]
+    }
+}

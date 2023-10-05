@@ -1,0 +1,15 @@
+{
+    "desc": "动态过滤器配置项",
+    "blogs": [
+        {
+            "name": "search",
+            "title": "关键字检索",
+            "value": "text"
+        },
+        {
+            "name": "create_date",
+            "title": "创建时间",
+            "value": "date"
+        }
+    ]
+}
